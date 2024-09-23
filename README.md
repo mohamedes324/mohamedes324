@@ -40,6 +40,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedes324&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="mohamedes324" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=mohamedes324&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mohamedes324&style=for-the-badge">
-</a>
+
