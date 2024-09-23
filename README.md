@@ -1,60 +1,45 @@
-# Hi there! 👋 I'm Mohamed Hassan
+<h3 align="center">
+  Welcome to Yousef Hani's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-## About Me ℹ️
-🎓 I am a third-year Computer Science student at Helwan University, specializing in full-stack development with a focus on backend development using .NET. I have a strong passion for technology and problem-solving, and I thrive in environments where innovation and creativity are encouraged.
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="240">
 
-💻 My journey in tech has led me to develop a robust skill set in both frontend and backend technologies, with a particular focus on building scalable and efficient applications.
-
-🌍 I am always eager to learn new technologies, explore cutting-edge frameworks, and solve complex challenges in the world of software development.
-
-## Skills & Expertise 🚀
-
-### Programming Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin-right: 10px;"/>
-</p>
-
-### Frameworks & Tools
-- **Frontend:** Angular, Bootstrap
-- **Backend:** ASP.NET
-- **Database Management:** MySQL, SQL Server
-- **Version Control:** Git, GitHub
-
-### Additional Skills
-- **🚀 Problem Solving:** Strong analytical skills developed through extensive practice in data structures, algorithms, and competitive programming.
-- **📚 Fast Learning:** Quickly adapts to new technologies and frameworks, with a commitment to continuous learning.
-- **💬 Communication:** Effective communicator with experience in collaborative team environments, capable of conveying complex ideas clearly and concisely.
-
-## Projects & Contributions 💼
-
-I have worked on several projects, ranging from web applications to data analysis tools. Below are a few highlights:
-
-- **Portfolio Website:** A personal portfolio showcasing my projects, skills, and experience.
-- **Social Networking Website:** A full-featured social networking platform enabling users to connect, share content, and interact in real-time.
-
-You can explore more of my projects on [GitHub](https://github.com/MohamedHassan2004).
-
-## Connect with Me 🌐
-Let's connect and discuss how we can collaborate on exciting tech projects! You can reach me at:
-- 📧 Email: mo7amedhassan2004@gmail.com
-- 💼 LinkedIn: [Mohamed Hassan](https://www.linkedin.com/in/mohamed-hassan-07137827b)
-- 🌐 Portfolio: [My Portfolio](https://mohamedhassan2004.github.io/My-Portfolio/)
-
-Feel free to explore my repositories and projects. Let's build something amazing together! 🌟
-
----
-
-## GitHub Stats 📊
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedHassan2004&show_icons=true&theme=radical" alt="GitHub Stats" style="animation: bounce 2s infinite;"/>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20.Net%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-## Top Languages Used 🌐
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHassan2004&layout=compact&theme=radical" alt="Top Languages" style="animation: bounce 2s infinite;"/>
-</p>
+- 🏢 A Junior .Net Backend web developer
+- 🎓 A CS student at HTI (Higher Technological Institute)
+- 👨‍💻 Constantly learning and exploring new technologies to improve my skills
+- 💬 Ask me about <strong>C#, SQL Server and Asp.net Core</strong>
+
+### Contact Me :
+
+<a href="https://www.linkedin.com/in/youssef-hani-431564262/" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Hani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://wa.me/+201222535069" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Hani-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
+<a href="mailto:ytaha6368@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Hani-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
+
+### 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=5C2D91)&nbsp;
+![LINQ](https://img.shields.io/badge/-LINQ-05122A?style=flat&logo=.NET&logoColor=512BD4)&nbsp;
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework%20Core-05122A?style=flat&logo=.NET&logoColor=512BD4)&nbsp;
+![ASP.NET](https://img.shields.io/badge/-ASP.NETCore-05122A?style=flat&logo=dotnet&logoColor=512BD4)&nbsp;
+![API](https://img.shields.io/badge/-API-05122A?style=flat&logo=dotnet&logoColor=512BD4)&nbsp;
+![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=dotnet&logoColor=512BD4)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefhanni&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="yousefhanni" />
+<br>
+<a href="https://komarev.com/ghpvc/?username=yousefhanni&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=yousefhanni&style=for-the-badge">
+</a>
